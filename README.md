@@ -1,4 +1,4 @@
-# Teste técnico - LabLuby
+# Teste técnico REACTJS - LabLuby
 
 # Getting Started with Create React App
 
